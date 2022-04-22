@@ -1,0 +1,4 @@
+#Tue Apr 19 22:02:45 EST 2022
+base.0=/Users/juneikacanegan/AndroidStudioProjects/UCCITClub/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
