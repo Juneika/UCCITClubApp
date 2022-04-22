@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UCCITClub</string>
+    <string name="title_activity_directory">DirectoryActivity</string>
+    <string name="large_text">Large text</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="faculty">
+        <item>ROSE, Natalie</item>
+        <item>DAVIDSON, Sonia</item>
+        <item>AMONDE, Tom</item>
+        <item>MILLER, Ionie</item>
+        <item>NDAJAH, Peter</item>
+    </string-array>
+</resources>
